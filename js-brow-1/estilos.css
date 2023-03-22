@@ -1,0 +1,10 @@
+.background{
+    width: 300px;
+padding: 20px;
+border-radius: 20px;
+
+    background:linear-gradient(#cddadd,#4cf5b4)  ;
+    box-shadow: 5px 5px 5px  black;
+    color:rgb(12, 11, 11);
+    margin: 0 auto;
+}
